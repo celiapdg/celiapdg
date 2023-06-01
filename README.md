@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Clean Code practices and more Angular and TypeScript features!
+- 🌱 I’m currently learning more Angular and RxJS features!
 - 😄 Pronouns: she/her
 
